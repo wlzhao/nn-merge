@@ -6,12 +6,12 @@ This is the implementation of three k-NN graph merge algorithms, S-Merge,J-Merge
 
 
 
-  header file    | source file     |  description
- 
-  smerge.h       | smerge.cpp      |  Symmetric Merge 
-  jmerge.h       |  jmerge.cpp	   |  Joint Merge
-  lynndescent.h  |  lynndescent.cpp|  Hierarchical k -NN graph Construction via J-Merge
-  lysearch.h     |  lysearch.cpp   |  NN search task based on H-Merge
+ | header file    | source file     |  description|
+ |-------|------|----------|
+ | smerge.h       | smerge.cpp      |  Symmetric Merge |
+ | jmerge.h       |  jmerge.cpp	   |  Joint Merge|
+ | lynndescent.h  |  lynndescent.cpp|  Hierarchical k -NN graph Construction via J-Merge|
+ | lysearch.h     |  lysearch.cpp   |  NN search task based on H-Merge|
 
 ## Compilation
 
