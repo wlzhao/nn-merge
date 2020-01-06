@@ -28,5 +28,11 @@ To compile it, user only needs to run "make Makefile" under the source code dire
 To run the above mentioned methods, user is recommended to call "test()" function in "main.cpp". In the "test()" function, four interfaces, namely S-Merge, J-Merge, H-Merge and NN search algorithm, are provided. Furthermore, Dataset SIFT100K is attached with this package
 
 
+## Contribute
+This project welcomes contributions and suggestions from all the users.
+
+We use GitHub issues for tracking suggestions and bugs.
+
+# Author
 Author: Peng-Cheng Lin, Wan-Lei Zhao
 Date: Jan.-6-2020
